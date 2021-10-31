@@ -21,7 +21,7 @@
     <li>Mvc</li>
     <li>Abm</li>
     <li>React</li>
-    <li>Redux<li>
+    <li>Redux</li>
     <li>SocketIO</li>
     <li>Sql/postgresSql</li>
     <li>TypeScript</li>
