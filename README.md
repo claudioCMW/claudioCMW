@@ -34,9 +34,8 @@
     <li>Insomnia</li>
     <li>Trello</li>
 <ul>
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/9vDOx6g_KQI" type="video/mp4">
-</video> 
+<h3>PI Henry</h3>
+<a href="https://youtu.be/9vDOx6g_KQI">link text</a>
 
 <!--
 Hola
