@@ -1,7 +1,13 @@
-### Hi there 👋
-## Sobre mi
+## Hello world 👋
+<img src="./img/sof.git" alt="">
 
-<h3> hola</h3>
+<h2> ¿Quien soy?  </h2>
+
+<h3>  Me llamo claudio miguel wusinowski,soy de Lujan Provincia de Buenos  Aires, tengo 33 años, casado.Trabajo en un restaurant y estudio en la universidad de Lujan Lic.Sistemas de Informacion.</h3> 
+
+<h2>herramientas que utilizo</h2>
+   
+           
 <!--
 Hola
 **claudioCMW/claudioCMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
