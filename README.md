@@ -2,7 +2,8 @@
 
 <img style="margin:auto"  src="https://www.bdigital.co.nz/wp-content/uploads/2019/07/Graphic-workstation.gif" alt=""/>
 
-<h2> ¿Quien soy?  </h2>
+<h2>	
+&#129300; ¿Quien soy?  </h2>
 
 <h3>  Me llamo claudio miguel wusinowski,soy de Lujan Provincia de Buenos  Aires, tengo 33 años, casado.Trabajo en un restaurant y estudio en la universidad de Lujan Lic.Sistemas de Informacion.</h3>
 
@@ -33,9 +34,10 @@
     <li>Insomnia</li>
     <li>Trello</li>
 <ul>
-   
-<h2>URL Proyecto Henry</h2>
-       <video src="https://youtu.be/9vDOx6g_KQI" alt=""/>    
+  <video width="320" height="240" controls>
+  <source src="https://youtu.be/9vDOx6g_KQI" type="video/mp4">
+</video> 
+
 <!--
 Hola
 **claudioCMW/claudioCMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
