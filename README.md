@@ -6,7 +6,7 @@
 
 <h3>  Me llamo claudio miguel wusinowski,soy de Lujan Provincia de Buenos  Aires, tengo 33 años, casado.Trabajo en un restaurant y estudio en la universidad de Lujan Lic.Sistemas de Informacion.</h3>
 
-<h2 style="color:blue"> Herramientas que suelo usar</h2>
+<h2 style="color:blue">&#128588; Herramientas que suelo usar</h2>
 <ul>
     <li>Java</li>
     <li>JavaScript</li>
