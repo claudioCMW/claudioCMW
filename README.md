@@ -1,8 +1,5 @@
-# ¿Quien soy?
-  Hola,mi nombre es claudio miguel wusinowski,soy de lujan Provincia de Buenos Aires, tengo 33 años casado y con 5 hijos (gatos obvio ajajaj), estudio 
-  en la universidad de lujan Lic. Sistemas de Informacion desde el 2017 y trabajo de ayudante de cocina en un restaurant de centro, soy amante de todo lo 
-  relacionado a la computación 
-#
+### Hi there 👋
+## Sobre mi
 <!--
 Hola
 **claudioCMW/claudioCMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+.
