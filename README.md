@@ -34,8 +34,9 @@
     <li>Insomnia</li>
     <li>Trello</li>
 <ul>
-<h3>PI Henry</h3>
-<a href="https://youtu.be/9vDOx6g_KQI">link text</a>
+<h3>	
+&#128640;PI Henry</h3>
+<a href="https://youtu.be/9vDOx6g_KQI">Poyecto Countries BoopCamp Henry</a>
 
 <!--
 Hola
