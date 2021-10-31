@@ -1,5 +1,5 @@
 ## Hello world 👋
-<img src="./img/sof.git" alt="">
+<img src="./img/sof.git" alt=""/>
 
 <h2> ¿Quien soy?  </h2>
 
