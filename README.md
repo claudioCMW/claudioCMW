@@ -33,5 +33,5 @@
 <ul>
 <h3>	
 &#128640;PI Henry</h3>
-<a href="https://youtu.be/9vDOx6g_KQI">Poyecto Countries BoopCamp Henry</a><b></b>
+<a href="https://youtu.be/9vDOx6g_KQI">Poyecto Countries BoopCamp Henry</a><br></br>
 <a href="https://pf-web-service.vercel.app/">Poyecto Grupal BoopCamp Henry</a>
