@@ -17,7 +17,7 @@ Inspired by a classmate who joined HENRY and quickly entered the workforce, I de
 
 My commitment, responsibility, and teamwork skills have been demonstrated throughout my career. I fully understand the values of goal-setting, responsibility, leadership, camaraderie, and dedication. My aim is to contribute to the success of the team and the organization, standing out as a dedicated and reliable professional.</h3>
 
-<h2 style="color:blue">&#128588; Herramientas que suelo usar</h2>
+<h2 style="color:blue">&#128588; Tools that I usually use</h2>
 <ul style="display: flex; flex-wrap: wrap; gap: 0.5">
     <li>Java</li>
     <li>JavaScript</li>
@@ -57,6 +57,6 @@ My commitment, responsibility, and teamwork skills have been demonstrated throug
 <ul>
 <h3>	
 &#128640;PI Henry</h3>
-<a href="https://youtu.be/9vDOx6g_KQI">Poyecto Individual Countries BoopCamp Henry</a><br></br>
+<a href="https://youtu.be/9vDOx6g_KQI">Individual Project Countries Bootcamp Henry</a><br></br>
 <h3>&#128640;PG Henry</h3><br></br>
-<a href="https://pf-web-service.vercel.app/">Poyecto Grupal BoopCamp Henry</a>
+<a href="https://pf-web-service.vercel.app/">Group Project Bootcamp Henry</a>
